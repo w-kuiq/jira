@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "wang",
+      "id": 1
+    },
+    {
+      "name": "jack",
+      "id": 2
+    }
+  ],
+  "projects": [ 
+    { 
+      "name": "骑手管理",
+      "id": 1,
+      "personId": 1,
+      "organization"  : "外卖"
+    },
+    { 
+      "name": "饿了么",
+      "id": 2,
+      "personId": 2,
+      "organization"  : "外卖"
+    } 
+  ]
+}
